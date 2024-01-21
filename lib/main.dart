@@ -3,6 +3,7 @@ import './splashscreen.dart';
 import './register.dart';
 import './login_page.dart';
 import './home_page.dart';
+import './payment_page.dart';
 
 void main() {
   runApp(MyApp());
